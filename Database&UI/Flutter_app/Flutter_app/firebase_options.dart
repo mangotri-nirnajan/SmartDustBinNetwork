@@ -60,7 +60,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBg-_0JmIzd3MSqY2hfzLyb09spcygJC-k',
+    apiKey: '',
     appId: '1:321802860181:ios:050da902b238b7150f8d9c',
     messagingSenderId: '321802860181',
     projectId: 'iotproject-f6abf',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBg-_0JmIzd3MSqY2hfzLyb09spcygJC-k',
+    apiKey: '',
     appId: '1:321802860181:ios:050da902b238b7150f8d9c',
     messagingSenderId: '321802860181',
     projectId: 'iotproject-f6abf',
