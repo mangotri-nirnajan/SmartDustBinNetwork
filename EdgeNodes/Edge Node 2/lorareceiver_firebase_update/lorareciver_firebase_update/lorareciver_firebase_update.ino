@@ -12,12 +12,12 @@
 #define TXp2 17
 
 // Insert your network credentials
-#define WIFI_SSID "NotInternet"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyD4yuMyAWvchl75WFDXqafYdyaI0w0EweM"
+#define API_KEY ""
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://iotproject-f6abf-default-rtdb.asia-southeast1.firebasedatabase.app/" 
+#define DATABASE_URL "https://iotproject-southeast1.firebasedatabase.app/" 
 
 //Define Firebase Data object
 FirebaseData fbdo;
